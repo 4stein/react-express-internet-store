@@ -1,5 +1,5 @@
 # Fullstack react express internet-store app
-React, Mobx, Express, Sequelize
+React, Mobx, Express, Sequelize, PostgreSQL
 
 ## Available scripts to start application
 
