@@ -1,5 +1,5 @@
 # Fullstack react express internet-store app
-React, Express 
+React, Mobx, Express 
 
 ## Available scripts to start application
 
